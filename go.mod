@@ -1,4 +1,4 @@
-module github.com/mohammedfuta2000/tollbooth
+module github.com/mohammedfuta2000/tollbooth-rate-limiter
 
 go 1.21.3
 
